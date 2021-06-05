@@ -5,3 +5,5 @@
 - Strogonoff de Frango :chicken:
 - Pavê :cake:
 
+- Bolo de Cenoura :carrot:
+
